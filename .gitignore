@@ -1,0 +1,5 @@
+# 공개는 index.html + README만. 조사 원본(src)·로컬 사본은 비공개
+*
+!index.html
+!README.md
+!.gitignore
